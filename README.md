@@ -444,7 +444,7 @@
     
   ## 8-1. ERD
 
-  ![자율프로젝트](/uploads/8531fe82e018687735a6057553d96f2b/자율프로젝트.png)
+  ![자율프로젝트](./images/README/erd.png)
 
 
   ## 8-2. Design System
@@ -483,7 +483,7 @@
 
 
 
-# 10. ![Group_237632](/uploads/52a59d87dd297e72d341009deeb0e64b/Group_237632.png) 팀원 소개
+# 10. 팀원 소개
 ------------------------------------------------------
   ![logo_dark](./images/README/team.png)
   
