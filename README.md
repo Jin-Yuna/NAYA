@@ -9,6 +9,9 @@
 ------------------------------------------
 
 # 1. NAYA 소개
+
+소개영상 [ https://youtu.be/aoKpCYj-c7E ]
+
   ### **NA(나)를 소개하는 가장 쉬운 방법 NAYA 소개 카드 관리 서비스**
 ![logo_dark](./images/README/logo.png)
   
